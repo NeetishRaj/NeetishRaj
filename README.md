@@ -2,7 +2,9 @@
 
 I started programming with a simple HTML file back in 2011 and right now building an online Consulting platform for Cloud Architects. I believe that every programming language and technology has a special place in our software development ecosystem. 
 
-Worked with small Startups to Huge enterprises and even after 14 years I am still learning...
+*_ We only get to know them if we use them ! _*
+
+Worked with small startups to large enterprises and even after 14 years I am still learning...
 
 ---
 For **Consulting**, **RFP**, **Development** or **Training** enquiries 👉 [My LinkedIn](https://www.linkedin.com/in/neetish-raj-8a20a778/) 
@@ -19,7 +21,7 @@ TypeScript, JavaScript(ES5 to ES6+), C#, Bash Shell Scripting, Powershell, HTML5
 Linux(Ubuntu, CentOS, RHEL), Windows Server (Enterprise)
 
 ##### Cloud Platforms
-AWS (Certified), Azure, GCP, salesforce, Firebase, DigitalOcean, Oracle, Linode
+AWS (Certified), Azure, GCP, salesforce, Firebase, DigitalOcean, Oracle, Linode, Vercel, Heroku 
 
 ##### Data Engineering Tools
 Google Sheet, Excel, JSON, RegEx, CSV, SQLite, Parquet, Avro, XML(XSLT with XPath), postgres, SQL Server, MySQL, Apache Kafka, Spark, Snowflake, Databricks, Google Data (Looker) Studio, Tableau, Power BI, Azure DataFactory, Google BigQuery, AWS Redshift, Rabbit MQ, AWS SQS, Redis, ElasticSearch, MongoDB, Kibana, Pandas, TensorFlow, PyTorch, Prometheus, Scala, AWS S3, DynamoDB, Neo4j, PostGIS, GridFS
@@ -52,5 +54,5 @@ OpenGraph, Compression, on-page SEO, Google Analytics, Lighthouse, Page speed in
 Jira, Confluence, Notion, Github PR & Wikis, Bitbucket, Beanstalk, Slack, Discord, Sharepoint, Office365, Outlook, Teams and Stream, Skype, WebEx, G-Suite, Miro, Calendly, SmartTask, Asana, ClickUp, Notion, Prismic CMS
 
 ##### Area of Interests
-Cloud FinOps, AI, Data Science, Cloud migration, Machine learning, IoT
+Cloud FinOps, Platform agnostic Cloud solutions, AI, Data Science, Machine learning, IoT
 
