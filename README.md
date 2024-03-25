@@ -2,12 +2,12 @@
 
 I started programming with a simple HTML file back in 2011 and right now building an online Consulting platform for Cloud Architects. I believe that every programming language and technology has a special place in our software development ecosystem. 
 
-*_ We only get to know them if we use them ! _*
+*_ We only get to know them if we play with them ! _*
 
 Worked with small startups to large enterprises and even after 14 years I am still learning...
 
 ---
-For **Consulting**, **RFP**, **Development** or **Training** enquiries 👉 [My LinkedIn](https://www.linkedin.com/in/neetish-raj-8a20a778/) 
+For **Consulting**, **RFP**, **Development** or **Training** enquiries 👉 [My LinkedIn](https://www.linkedin.com/in/neetish-raj-8a20a778/) or email 👉 [neetishop@gmail.com](mailto:neetishop@gmail.com)
 
 ---
 
