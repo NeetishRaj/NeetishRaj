@@ -14,7 +14,7 @@ For **Consulting**, **RFP**, **Development** or **Training** enquiries 👉 [My 
 ### Technologies I have worked with
 
 ##### Languages
-TypeScript, JavaScript(ES5 to ES6+), C#, Bash Shell Scripting, Powershell, HTML5, CSS3, SVG, SQL, NoSQL, Python, Google AppScript, PHP, C/C++
+TypeScript, JavaScript(ES5 to ES6+), C#, Bash Shell Scripting, Powershell, HTML5, CSS3, SVG, SQL, NoSQL, Python, Google AppScript, PHP, C/C++, Go
 
 
 ##### Operating Systems
