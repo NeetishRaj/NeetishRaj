@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I started programming with a simple HTML file back in 2011 and right now building an online Consulting platform for Cloud Architects. I believe that every programming language and technology has a special place in our software development ecosystem. 
+I started programming with a simple Java Hello world back in 2006 and right now building an online Consulting platform for Cloud Architects. I believe that every programming language and technology has a special place in our software development ecosystem. 
 
 *_ We only get to know them if we play with them ! _*
 
