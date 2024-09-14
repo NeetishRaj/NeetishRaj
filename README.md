@@ -21,7 +21,7 @@ TypeScript, JavaScript(ES5 to ES6+), C#, Bash Shell Scripting, Powershell, HTML5
 Linux(Ubuntu, CentOS, RHEL), Windows Server (Enterprise)
 
 ##### Cloud Platforms
-AWS (Certified), Azure, GCP, salesforce, Firebase, DigitalOcean, Oracle, Linode, Vercel, Heroku 
+AWS (Certified), Hetzner, Azure, GCP, salesforce, Firebase, DigitalOcean, Oracle, Linode, Vercel, Heroku 
 
 ##### Data Engineering Tools
 Google Sheet, Excel, JSON, RegEx, CSV, SQLite, Parquet, Avro, XML(XSLT with XPath), postgres, SQL Server, MySQL, Apache Kafka, Spark, Snowflake, Databricks, Google Data (Looker) Studio, Tableau, Power BI, Azure DataFactory, Google BigQuery, AWS Redshift, Rabbit MQ, AWS SQS, Redis, ElasticSearch, MongoDB, Kibana, Pandas, TensorFlow, PyTorch, Prometheus, Scala, AWS S3, DynamoDB, Neo4j, PostGIS, GridFS
