@@ -39,7 +39,7 @@ OAuth, SSO, SAML, Azure Active Directory, AWS IAM, Okta, JWT, 2FA, Code-Review c
 TDD, API Testing (Swagger, Postman), Load testing (New Relic), React Jest (Unit, Snapshots, Mocks, and Spies), Mocha, Chai, Enzyme, NUnit, XUnit, Moq, E2E, Selenium, Functional/NonFunctional Tests, Mocks, Stubs, Powershell, RPA, bash, Puppeteer, Cypress, AppScript, Make.com, Automa, Chrome Extensions, Test infra setup
 
 ##### Networking Tools
-Chrome Dev Tools, Postman, Fiddler, Filezilla, SSH, netstat, ping, AWS VPC
+Chrome Dev Tools, Postman, Fiddler, Filezilla, SSH, wireshark (tshark), tcpdump, SSL, netstat, ping, AWS VPC
 
 ##### Frameworks
 Nodejs, Nextjs, Socket, React with Redux, ASP.NET Framework, ASP.NET Core, Dotnet, Bootstrap, jQuery,  AngularJS/Angular, Sass,  Express, Open XML, Rxjs, Entity Framework, Flask, TailwindCSS, Nextjs, AJAX, GraphQL, React Native, laravel, Supabase, Prisma, Blazor
